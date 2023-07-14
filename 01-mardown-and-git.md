@@ -18,7 +18,7 @@ Lets learn few things _by doing_
    7. What are branches
    8. Create a new branch, makes some changes, commit to that branch
    9. List all branches, merge a branch into another branch, delete branch
-4. Once you feel confident with git, lets _push_ your to GitHub.
+4. Once you feel confident with git, lets _push_ your local repository to GitHub.
    1. Create a empty repo in GitHub
    2. Connect your local repo with the newly created repo on GitHub
    3. Push the changes
